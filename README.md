@@ -1,4 +1,4 @@
-# React + Vite
+# Carrosel DripStore
 
 Este é um projeto de carrossel para a Dripstore do desafio do Geração Tech.
 
